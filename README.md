@@ -28,7 +28,7 @@
 ### Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/EventMate.git
+git clone https://github.com/cristopherUwU/EventMate.git
 cd EventMate
 npm install
 npm start
