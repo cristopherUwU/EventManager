@@ -1,0 +1,8 @@
+@import "../../scss/mixins.scss";
+
+.eventInfoCard {
+  @include component_min_height();
+}
+.eventInfoSummary {
+  margin-bottom: 20px;
+}

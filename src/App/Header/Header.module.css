@@ -1,0 +1,21 @@
+.header {
+  position: relative;
+
+  background: linear-gradient(90deg, #d4eece, #55b3d0, #1e7eb7),
+    url(../../images/EventMate.png) no-repeat;
+  background-blend-mode: multiply;
+  background-size: cover;
+  background-position: center;
+}
+
+.title {
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+  line-height: 0.65;
+  margin-top: 0;
+  margin-bottom: 10px !important;
+  font-size: 52px;
+}
+
+.subTitle {
+  margin-top: 0 !important;
+}

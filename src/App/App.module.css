@@ -1,0 +1,11 @@
+.app {
+  position: relative;
+
+  width: 90%;
+  margin: 30px auto;
+  background: #fcfcfc;
+
+  overflow: hidden;
+
+  min-height: calc(100vh - 60px);
+}
