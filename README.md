@@ -19,9 +19,8 @@
 
 - **Frontend:** React, TypeScript, Tailwind CSS
 - **Backend:** Node.js / Express
-- **Base de datos:** PostgreSQL / MongoDB *(según tu stack)*
 - **Control de versiones:** Git & GitHub
-
+- **Base de datos y autenticación:** Firebase
 ---
 
 ## 📦 Instalación
@@ -31,3 +30,5 @@
 ```bash
 git clone https://github.com/tu_usuario/EventMate.git
 cd EventMate
+npm install
+npm start
